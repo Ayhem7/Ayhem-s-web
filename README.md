@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ayhem Kabouche - CV</title>
@@ -108,7 +107,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Ayhem Kabouche</p>
+        <p>© 2024 Ayhem Kabouche</p>
     </footer>
-</body>
-</html>
+
+</body></html>
